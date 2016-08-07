@@ -1,0 +1,18 @@
+{
+  "name": "bionis-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "High contrast theme, hinting towards the blue/purple side of the spectrum",
+  "keywords": [
+    "syntax",
+    "blue",
+    "purple",
+    "green",
+    "light"
+  ],
+  "repository": "https://github.com/protesilaos/bionis-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}

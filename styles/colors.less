@@ -1,0 +1,49 @@
+// Color scheme -----------------------------------
+
+@dbg: #281D2A;
+@dhl: #382D3A;
+@dt2: #786D7A;
+@dt1: #A89DAA;
+
+@lbg: #F9F5FA;
+@lhl: #E9E5EA;
+@lt2: #99959A;
+@lt1: #39353A;
+
+@red: #C25A5B;
+@ora: #CB6832;
+@yel: #BA8A00;
+@gre: #4DA35C;
+
+@cya: #439B9B;
+@blu: #5A8ACD;
+@vio: #AA6BC5;
+@mag: #C25783;
+
+// Visual order -----------------------------------
+
+@primary1: @blu;
+@primary2: @vio;
+@primary3: @gre;
+
+@secondary1: @cya;
+@secondary2: @red;
+
+@tertiary1: @ora;
+@tertiary2: @yel;
+@tertiary3: @mag;
+
+// Theme variant ----------------------------------
+
+@text1: @lt1; // text primary
+@text2: @lt2; // text secondary
+@syntax-bg: @lbg; // background
+@syntax-guide: @lhl; // background highlight
+
+// Atom Base vars ---------------------------------
+
+@syntax-fg: @text1; // text primary
+@syntax-accent: @tertiary1; // cursor, markdown preview links, etc.
+@syntax-selection: @syntax-guide;
+@syntax-selection-gutter: @syntax-guide;
+@syntax-cursor-line: fade(@syntax-selection, 26%); // needs to be semi-transparent to show serach results
