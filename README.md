@@ -1,13 +1,15 @@
 # Bionis syntax theme (light version)
 
-*Bionis* is a high contrast theme. It was originally developed for the redesign of my website, with the intention to enhance legibility while using a pleasant, 16-colour palette.
+High contrast colour scheme, hinting towards the blue-purple side of the spectrum. The most prevalent accent values are variants of blue, violet, green, cyan, and red.
+
+*Bionis* comes in separate light and dark versions (see further info below).
 
 ## Screenshot
 
 ![bionis light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/bionis/img/bionis_light_sample.png)
 
-*The font in the screenshot is [Hack](https://github.com/chrissimpkins/Hack), set at 14px*.  
-*Demo code by http://codemirror.net/mode/javascript/index.html*  
+*The font is [Hack](https://github.com/chrissimpkins/Hack)*.  
+*Demo JS by http://codemirror.net/mode/javascript/index.html*  
 *The UI theme is https://atom.io/themes/atom-material-ui*.
 
 ## Download
