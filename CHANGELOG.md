@@ -15,3 +15,8 @@
 - Update to visual order in `styles/colors.less`
   - `tertiary2` from `yel` to `mag`
   - `tertiary3` from `mag` to `yel`
+
+## 1.1.0
+- Refinements to JavaScript.
+- Refinements to Markdown.
+- Minor improvements to editor styles.
