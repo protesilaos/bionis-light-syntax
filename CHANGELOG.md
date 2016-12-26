@@ -20,3 +20,13 @@
 - Refinements to JavaScript.
 - Refinements to Markdown.
 - Minor improvements to editor styles.
+
+## 1.2.0
+- Added macro highlighting for Rust.
+- Palette refinements in `styles/colors.less`
+  - `lt2` from `8B888D` to `9B989D`
+  - `lt1` from `3B383D` to `4B484D`
+- - Update to visual order in `styles/colors.less`
+  - `secondary1` from `cya` to `mag`
+  - `secondary2` from `red` to `cya`
+  - `tertiary2` from `mag` to `red`
